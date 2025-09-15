@@ -1,7 +1,7 @@
 # Hi there, I'm Darius 👋
 
 
-<p align="center"><h4 align="center"><samp> A Penetration Tester, Full Stack Web Developer — building tools and diving deep into reverse engineering apps and protocols. </samp></h4></p>
+<p align="center"><h4 align="center"><samp> A Penetration Tester & Full Stack Web Developer — passionate about building tools and reverse engineering apps and protocols </samp></h4></p>
 
 
 <!--
