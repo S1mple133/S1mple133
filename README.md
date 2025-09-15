@@ -1,4 +1,10 @@
-## Hi there 👋
+# Hi there, I'm Darius 👋
+
+[![Linkedin](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/darius-cristian-pavelescu-123472176)
+[![GitHub](https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/S1mple133)
+
+## <p align="center"><h4 align="center"><samp> A Penetration Tester, Full Stack Web Developer & Passionate Reverse Engineer </samp></h4></p>
+
 
 <!--
 **S1mple133/S1mple133** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
