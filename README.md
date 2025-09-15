@@ -1,9 +1,7 @@
 # Hi there, I'm Darius 👋
 
-[![Linkedin](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/darius-cristian-pavelescu-123472176)
-[![GitHub](https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/S1mple133)
 
-<p align="center"><h4 align="center"><samp> A Penetration Tester, Full Stack Web Developer & Passionate Reverse Engineer </samp></h4></p>
+<p align="center"><h4 align="center"><samp> A Penetration Tester, Full Stack Web Developer — building tools and diving deep into reverse engineering apps and protocols. </samp></h4></p>
 
 
 <!--
