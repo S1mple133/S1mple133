@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
 ## Whoami
 - I’m a penetration tester and full-stack web developer with a strong passion for reverse engineering applications and protocols, as well as uncovering security vulnerabilities in my free time.
@@ -31,3 +30,4 @@ Here are some ideas to get you started:
 - Burp Suite Certified Practitioner
 - OffSec Certified Professional
 - OffSec Wireless Professional
+-->
